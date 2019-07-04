@@ -12,3 +12,8 @@ The remaining files are python notebooks related to my current work on the LeDeR
 
 *leder_text_classif_turing_institute.ipynb* are some initial experiments using the free-text to label codings as a training set for future automated coding of new reviews.
 
+PLEASE NOTE:
+Sometimes the well-known GitHub feature occurs which prevents the display of Notebooks for some time. If this occurs
+copy/paste the GitHub URLs linked above into:
+https://nbviewer.jupyter.org/
+
